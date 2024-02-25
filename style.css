@@ -1,0 +1,35 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #e5e5e5;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin: 0 auto;
+    width: 1280px;
+    height: 1399px;
+    background: #ffffff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.main-description {
+    background-color: rgb(247, 7, 7);
+    margin: 20px, 40px, 20px, 40px;
+    padding: 40px, 10px, 5px, 3px;
+}
+.block-2 {
+    background-color: rgb(7, 247, 23);
+    margin: 10px;
+    padding: 50px;
+}
+li {
+    color: green;
+}
+
+h2 {
+    color: red;
+}
+
+.description {
+    color: blue;
+}
